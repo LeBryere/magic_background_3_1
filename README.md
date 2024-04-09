@@ -1,4 +1,4 @@
-# [Magic css - Background](https://lebryere.github.io/magic_background_3_1/)
+# [Onmly css - Background](https://lebryere.github.io/magic_background_3_1/)
 
 ## Preview
 
